@@ -1,2 +1,2 @@
-# SimpleRegressionWithR
-A simple Regression Model using R
+# Simple Regression Model with R
+This is a simple Regression Model that was created using R
